@@ -1,16 +1,6 @@
-# luma_chat
+# Luma Chat
 
-A new Flutter project.
+A messaging app that allows users to connect through username search and real-time messaging. It offers a clean UI with chat previews, a dark theme, and a seamless user experience. Built for efficiency and effortless communication. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📽 **Project Video Demonstration:**  
+[Watch the Demo](https://sites.google.com/view/dev011-portfolio/home)  
